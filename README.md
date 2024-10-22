@@ -16,11 +16,11 @@
   
   ## Customizations:
     
-  ## Titles: Make visualizations more descriptive.
+  Titles: Make visualizations more descriptive.
       
-  ## Axis Labels: Clarify the meaning of the x and y axes.
+  Axis Labels: Clarify the meaning of the x and y axes.
       
-  ## Legends: Differentiate between multiple data series.
+  Legends: Differentiate between multiple data series.
       
       
 # Usage
